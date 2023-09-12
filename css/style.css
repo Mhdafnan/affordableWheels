@@ -10045,3 +10045,14 @@ select.custom-select-box {
 .leftmargin{
   flex-direction: column-reverse;
 }
+.teamnew{
+  width: 60%;
+  border-radius: 50%;
+}
+@media screen and (max-width: 900px){
+.teampad{
+  margin-top: 8%;
+}
+
+  
+}
